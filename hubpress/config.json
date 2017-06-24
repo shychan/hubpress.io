@@ -9,10 +9,10 @@
     "name": "uno-zen"
   },
   "urls": {
-    "site": "https://shychan.github.io",
-    "hubpress": "https://shychan.github.io",
-    "theme": "//shychan.github.io/themes/uno-zen",
-    "images": "https://shychan.github.io/images"
+    "site": "http://www.stanada.com",
+    "hubpress": "http://www.stanada.com",
+    "theme": "//www.stanada.com/themes/uno-zen",
+    "images": "http://www.stanada.com/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
