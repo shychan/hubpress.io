@@ -2,7 +2,8 @@
   "meta": {
     "username": "shychan",
     "repositoryName": "shychan.hubpress.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": "www.stanada.com"
   },
   "theme": {
     "name": "uno-zen"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "Start-up Gap Filler",
+    "description": "Building cool teams and products",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
