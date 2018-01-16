@@ -48,5 +48,29 @@ I do believe a solution exists, with a premise of providing a good source of eng
 ** a lot of interviews focuses on experiences related to the job, so much so that candidates (from some bootcamps I know) are encouraged to NOT include experiences not relevant to the role they're applying for
 * promote personal mentorship, technical round tables, heirloom sessions, guest speakers
 ** encourage expansion of the mind. Seeking knowledge as peers.
+** develop and mature interpersonal relationships within the company
+* promote mental wellness and personal development
+** provide steep discounts to periodic counselling
+** personal wellness days 
+* encourage cross-training
+** encourage people movement
+** identify "dead-end" position and ensure steady pathway exists for moving into more open roles - keep those positions as [semi] temporarily to transition candidates upwards (as training/eval position, or as junior apprenticeship roles)
+
+Specifically, build out a software development company with the following attributes:
+* senior level eng
+** focus on hiring, mentorship, contract negoitation, leading design reviews/discussion 
+** encourage 3 days a week schedule, with partners overlapping/overseeing development teams
+** company reserves ability to purchase x% of stocks for $y if employee creates a startup within z years of working with the company
+* junior/intermediate eng
+** more or less the same as normal software firms, with specific goal of reaching senior within 5 yrs
+** assigned senior eng as mentor
+** if poached by a client company within x years, client company is to pay x% of eng's salary
+* bootcamp grads
+** minimal salary ranged, will have an intermediate+ eng as mentor
+** maximum of 9 months as bootcamp grads, then hire/fire
+** if poached, grad has to pay company max($x or y% of salary)
+** evaluation after 1/3/6/9 months
+
+
 
 
