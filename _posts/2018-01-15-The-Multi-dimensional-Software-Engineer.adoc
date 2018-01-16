@@ -15,7 +15,7 @@ My friend, Phil Bremer, gave me the term "multi-dimensional engineer" and organi
 ** The balance of vision, business, and execution (strictly in a software product sense) is disrupted by some definition of the role of a product manager, to the point that a product manager holds all decision power without full understanding of the technical caveats
 * THE SOFTWARE ENGINEER INITIATION: Like many other industries, software relies on university education as a measurement on competency
 ** Universities are still stuck in their academic ambitions and fails to prepare the many brilliant minds for the industry
-** 
+** The monotonic curriculum produces algorithmic-capable programmers without much breadth, thinking "outside the box" without understanding said "box"
 ** The new trend of software bootcamp compresses a curriculum, updates the study towards more applicable topics, but leaves a giant gap in making a software engineer
 ** Not mentioning gender bias and disparity within the industry - that merits a full discussion of its own.
 * THE STARTUP ENGINEER LIFE: The hypocritical expectations and constraints. These do not apply to every organization, but are common symptoms within the industry
