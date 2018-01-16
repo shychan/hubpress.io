@@ -11,15 +11,15 @@ My friend, Phil Bremer, gave me the term "multi-dimensional engineer" and organi
 
 * THE ROLE OF AN ENGINEER IN THE SOFTWARE INDUSTRY: The software engineering role is complemented with roles like Product Managers and Quality Assurance that, at times, meddles with direct feedback loops
 ** A predominant stereotype of engineers being bad at communication and understanding business needs. Whereas in other engineering disciplines, a full-fledged engineer is expected to conquer those challenges and understand a problem at its source to figure out a solution implementation; in software, it is more of an accepted weakness of the role.
-** For efficiencies and specialization, corporates utilize Product Managers and QA. The tradeoff would've been high level of communication and collaboration between the roles to sustain the feedback loop  --  in most implementations said communication is weak and ends up with improper ownershipt-responsibility models, leading to finger pointing and unnecessary processes.
+** For efficiencies and specialization, corporates utilize Product Managers and QA. The tradeoff would've been high level of communication and collaboration between the roles to sustain the feedback loop  --  in most implementations said communication is weak and ends up with improper ownership-responsibility models, leading to finger pointing and unnecessary processes.
 ** The balance of vision, business, and execution (strictly in a software product sense) is disrupted by some definition of the role of a product manager, to the point that a product manager holds all decision power without full understanding of the technical caveats
 * THE SOFTWARE ENGINEER INITIATION: Like many other industries, software relies on university education as a measurement on competency
 ** Universities are still stuck in their academic ambitions and fails to prepare the many brilliant minds for the industry
 ** The monotonic curriculum produces algorithmic-capable programmers without much breadth, thinking "outside the box" without understanding said "box"
 ** The new trend of software bootcamp compresses a curriculum, updates the study towards more applicable topics, but leaves a giant gap in making a software engineer
-** Not mentioning gender bias and disparity within the industry - that merits a full discussion of its own.
+** Not to mention gender bias and disparity within the industry - a topic which merits a full discussion of its own.
 * THE STARTUP ENGINEER LIFE: The hypocritical expectations and constraints. These do not apply to every organization, but are common symptoms within the industry
-** Lack of proper mentorship - trial by fire and self-learner mentality discourages/excludes many high potential candidates
+** Lack of proper mentorship - trial by fire and self-learner mentality discourages/excludes many high potential candidates with different learning styles
 ** heavy workload, rush to finish, poorly implemented SCRUM (Sprint) leads to focus on individual excellence (as opposed to collaborative decision making) and long working hours
 ** Management level often raised from high performing individual contributors with little to no experiences in management or mentorship
 ** Engineers feels constrained by the lack of touchpoints (from isolation of problem source and execution outcome), a ceiling in technical growth, and leaves or switch careers (becoming product managers or managers)
