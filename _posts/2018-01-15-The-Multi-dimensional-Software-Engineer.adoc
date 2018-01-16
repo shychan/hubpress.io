@@ -7,10 +7,10 @@
 
 = The Multi-dimensional [Software] Engineer
 
-My friend, Phil Bremer, gave me the term "multi-dimensional engineer" and organized my bunch of random thoughts into very concise terms:
+On a car ride up to Tahoe, my friend Phil Bremer, organized my ramblings of raw thoughts:
 
 * THE ROLE OF AN ENGINEER IN THE SOFTWARE INDUSTRY: The software engineering role is complemented with roles like Product Managers and Quality Assurance that, at times, meddles with direct feedback loops
-** A predominant stereotype of engineers being bad at communication and understanding business needs. Whereas in other engineering disciplines, a full-fledged engineer is expected to conquer those challenges and understand a problem at its source to figure out a solution implementation; in software, it is more of an accepted weakness of the role.
+** A predominant stereotype of engineers being bad at communication and understanding business needs. Whereas in other engineering disciplines, a full-fledged engineer is expected to conquer those challenges and understand a problem at its source to figure out a solution implementation; in software, it is more of an accepted weakness.
 ** For efficiencies and specialization, corporates utilize Product Managers and QA. The tradeoff would've been high level of communication and collaboration between the roles to sustain the feedback loop  --  in most implementations said communication is weak and ends up with improper ownership-responsibility models, leading to finger pointing and unnecessary processes.
 ** The balance of vision, business, and execution (strictly in a software product sense) is disrupted by some definition of the role of a product manager, to the point that a product manager holds all decision power without full understanding of the technical caveats
 * THE SOFTWARE ENGINEER INITIATION: Like many other industries, software relies on university education as a measurement on competency
@@ -23,3 +23,30 @@ My friend, Phil Bremer, gave me the term "multi-dimensional engineer" and organi
 ** heavy workload, rush to finish, poorly implemented SCRUM (Sprint) leads to focus on individual excellence (as opposed to collaborative decision making) and long working hours
 ** Management level often raised from high performing individual contributors with little to no experiences in management or mentorship
 ** Engineers feels constrained by the lack of touchpoints (from isolation of problem source and execution outcome), a ceiling in technical growth, and leaves or switch careers (becoming product managers or managers)
+
+In my limited experience, the engineering process is an cycle of the following steps:
+
+. understanding the problem and ecosystem
+. designing solution to address the problem
+. implementation of design
+. understanding the effects of the implementation (repeat of step 1)
+
+In an attempt to describe an ideal engineer for the software industry (very curtailed to Bay Area startups), Phil labeled my description as a "multi-dimensional engineer". These are the qualities I believe are crucial to a sucessful candidate (in this particular order of importance):
+
+. Concise and clear communication
+. Empathy and curiosity to problem pain points
+** Ability to isolate complex situations and root cause
+. Collaborative in discussions and decision making process. Keep discussion/decision focus on technical aspect (as opposed to being ego driven)
+. Have a breadth of experiences outside of software development to draw from, be it personal or professional experiences
+
+I do believe a solution exists, with a premise of providing a good source of engineers into the industry with good work-life balance achievable within the job that it can grow and sustain talents:
+
+* bring back the concept of apprenticeship for software development!
+** we need to take back the responsibility of training our industry back to ourselves - too many companies forgo the idea of internal training and rely on either universtities or poaching from others to get experienced talents. This leads to stagnation of growth with individuals within an organization culture.
+* recruit for hard to train (instead of hard to measure) qualities
+** most interviews measure a candidate's alogorithmic capabilities, because it can be standardized
+** a lot of interviews focuses on experiences related to the job, so much so that candidates (from some bootcamps I know) are encouraged to NOT include experiences not relevant to the role they're applying for
+* promote personal mentorship, technical round tables, heirloom sessions, guest speakers
+** encourage expansion of the mind. Seeking knowledge as peers.
+
+
